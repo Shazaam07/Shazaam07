@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shazaam07
+- 👋 Hi, I’m Sharique shaikh
 - 👀 I’m interested in ...WEB DEVELOPMENT 
 - 🌱 I’m currently learning ...FRONTEND 
 - 💞️ I’m looking to collaborate on ...FULL STACK DEVELOPMENT
